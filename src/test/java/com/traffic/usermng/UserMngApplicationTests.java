@@ -1,4 +1,4 @@
-package com.trafffic.User_mng;
+package com.traffic.usermng;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

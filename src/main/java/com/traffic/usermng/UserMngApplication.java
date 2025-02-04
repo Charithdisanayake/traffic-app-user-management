@@ -1,4 +1,4 @@
-package com.trafffic.User_mng;
+package com.traffic.usermng;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
